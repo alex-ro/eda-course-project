@@ -3,6 +3,7 @@ Exploratory Data Analysis Course Project
 
 This repository contains the files that solve the [Exploratory Data Analysis](https://class.coursera.org/exdata-002) course project assignment.  
 The overall goal of this assignment is to explore the National Emissions Inventory database and see what it say about fine particulate matter pollution in the United states over the 10-year period 1999–2008. This is done by answering 6 questions with a plot for each one. This are the questions:  
+
 1. Have total emissions from PM2.5 decreased in the United States from 1999 to 2008? Using the base plotting system, make a plot showing the total PM2.5 emission from all sources for each of the years 1999, 2002, 2005, and 2008.
 
 2. Have total emissions from PM2.5 decreased in the Baltimore City, Maryland (fips == "24510") from 1999 to 2008? Use the base plotting system to make a plot answering this question.
